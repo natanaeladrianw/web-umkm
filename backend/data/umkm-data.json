@@ -1,0 +1,55 @@
+{
+  "umkm": {
+    "name": "Toko Kerajinan Tangan Adrian",
+    "owner": "Bapak Adrian",
+    "since": 2018,
+    "description": "UMKM yang bergerak di bidang kerajinan tangan tradisional dengan sentuhan modern. Kami memproduksi berbagai macam produk kerajinan seperti tas, dompet, aksesoris, dan hiasan rumah yang terbuat dari bahan-bahan alami dan ramah lingkungan.",
+    "products": [
+      {
+        "id": 1,
+        "name": "Tas Rajut Modern",
+        "price": 150000,
+        "description": "Tas rajut dengan desain modern dan warna-warna cerah",
+        "image": "/images/tas-rajut.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Dompet Kulit Sintetis",
+        "price": 75000,
+        "description": "Dompet elegan dari kulit sintetis berkualitas",
+        "image": "/images/dompet-kulit.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Gelang Manik-manik",
+        "price": 25000,
+        "description": "Gelang handmade dengan manik-manik warna-warni",
+        "image": "/images/gelang-manik.jpg"
+      }
+    ],
+    "services": [
+      "Custom desain produk",
+      "Pengiriman seluruh Indonesia",
+      "Pembelian grosir dengan harga khusus"
+    ],
+    "contact": {
+      "address": "Jl. Merdeka No. 123, Jakarta Pusat",
+      "phone": "+62 822-3017-4831",
+      "email": "natanaeladrianw@gmail.com",
+      "instagram": "@adrianwrwn",
+      "whatsapp": "+6282230174831"
+    },
+    "testimonials": [
+      {
+        "name": "Rina",
+        "comment": "Produknya bagus dan kualitasnya terjamin!",
+        "rating": 5
+      },
+      {
+        "name": "Budi",
+        "comment": "Pelayanan cepat dan ramah, recommended banget!",
+        "rating": 5
+      }
+    ]
+  }
+}
